@@ -8,10 +8,26 @@
     "contextType": "PAGE",
     "inputs": {
       "input1": "",
+      "input2": "",
+      "input3": "",
       "limit": "2",
       "offset": ""
     },
     "moduleInputs": {
+      "mmyglxnhyh": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "mmyglxnhyh",
+        "label": "input3",
+        "propertyName": "inputs.input3"
+      },
+      "mzxqpggesw": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "mzxqpggesw",
+        "label": "input2",
+        "propertyName": "inputs.input2"
+      },
       "ufocpwrpcp": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "",
