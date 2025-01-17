@@ -7,51 +7,10 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "input1kai": "",
-      "kamakshia1": "",
       "limit": "2",
-      "ll": "3",
-      "offset": "2",
-      "om": "",
-      "popo": "",
-      "test": ""
+      "offset": "2"
     },
     "moduleInputs": {
-      "glprbbzcak": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "glprbbzcak",
-        "label": "kamakshia1",
-        "propertyName": "inputs.kamakshia1"
-      },
-      "hpcmymmrnr": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "hpcmymmrnr",
-        "label": "test",
-        "propertyName": "inputs.test"
-      },
-      "jbgqkzhdbp": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "jbgqkzhdbp",
-        "label": "popo",
-        "propertyName": "inputs.popo"
-      },
-      "pgftlcdwud": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "pgftlcdwud",
-        "label": "ll",
-        "propertyName": "inputs.ll"
-      },
-      "sshqveyokx": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "sshqveyokx",
-        "label": "om",
-        "propertyName": "inputs.om"
-      },
       "uldpzwnowz": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "2",
@@ -65,13 +24,6 @@
         "id": "wzyikhimhz",
         "label": "offset",
         "propertyName": "inputs.offset"
-      },
-      "xesuyhibvd": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "xesuyhibvd",
-        "label": "input1kai",
-        "propertyName": "inputs.input1kai"
       }
     },
     "name": "QueryModule12",
