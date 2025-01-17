@@ -7,20 +7,10 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "input1": "",
-      "input2": "",
-      "input3": "",
       "limit": "2",
-      "offset": "2"
+      "offset": ""
     },
     "moduleInputs": {
-      "qsvyhvkeyj": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "2",
-        "id": "qsvyhvkeyj",
-        "label": "offset",
-        "propertyName": "inputs.offset"
-      },
       "uldpzwnowz": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "2",
@@ -28,26 +18,12 @@
         "label": "limit",
         "propertyName": "inputs.limit"
       },
-      "whwmlogclu": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "whwmlogclu",
-        "label": "input3",
-        "propertyName": "inputs.input3"
-      },
       "wzyikhimhz": {
         "controlType": "INPUT_TEXT",
-        "defaultValue": "",
+        "defaultValue": "2",
         "id": "wzyikhimhz",
-        "label": "input1",
-        "propertyName": "inputs.input1"
-      },
-      "xeykixvnex": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "xeykixvnex",
-        "label": "input2",
-        "propertyName": "inputs.input2"
+        "label": "offset",
+        "propertyName": "inputs.offset"
       }
     },
     "name": "QueryModule11",

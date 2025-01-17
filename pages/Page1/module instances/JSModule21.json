@@ -8,15 +8,23 @@
     "contextType": "PAGE",
     "inputs": {
       "myFun1": "[]",
-      "qwe": "[]"
+      "qwe": "[]",
+      "qwe11": "[]"
     },
     "moduleInputs": {
+      "bkgprlrrat": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "bkgprlrrat",
+        "label": "qwe11",
+        "propertyName": "inputs.qwe1"
+      },
       "hdetvzmjud": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "hdetvzmjud",
         "label": "qwe",
-        "propertyName": "inputs.myFun2"
+        "propertyName": "inputs.qwe"
       },
       "vlgiwyojpz": {
         "controlType": "INPUT_TEXT",
