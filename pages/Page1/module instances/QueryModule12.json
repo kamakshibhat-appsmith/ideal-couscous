@@ -7,10 +7,19 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
+      "l": "",
       "limit": "2",
+      "ll": "",
       "offset": "2"
     },
     "moduleInputs": {
+      "gwxobsrxlw": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "gwxobsrxlw",
+        "label": "ll",
+        "propertyName": "inputs.ll"
+      },
       "uldpzwnowz": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "2",
@@ -24,6 +33,13 @@
         "id": "wzyikhimhz",
         "label": "offset",
         "propertyName": "inputs.offset"
+      },
+      "yqfhiddemc": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "yqfhiddemc",
+        "label": "l",
+        "propertyName": "inputs.l"
       }
     },
     "name": "QueryModule12",
