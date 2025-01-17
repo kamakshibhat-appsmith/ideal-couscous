@@ -1,0 +1,13 @@
+{
+  "gitSyncId": "6788b4e942ee4f76ed394a35_3359c5d4-8634-486a-a70c-860d692e300c",
+  "id": "Page1_onlyvar1",
+  "moduleUUID": "e5f947ff-d452-42ae-ac30-1c9189c1d035",
+  "packageUUID": "738ccff5-4fb3-43c1-a06a-980cad6ef39e",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {},
+    "name": "onlyvar1",
+    "pageId": "Page1"
+  }
+}
