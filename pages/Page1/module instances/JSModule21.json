@@ -8,17 +8,9 @@
     "contextType": "PAGE",
     "inputs": {
       "myFun1": "[]",
-      "qwe": "[]",
-      "qwe11112p1": "[]"
+      "qwe": "[]"
     },
     "moduleInputs": {
-      "bkgprlrrat": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "[]",
-        "id": "bkgprlrrat",
-        "label": "qwe11112p1",
-        "propertyName": "inputs.qwe1"
-      },
       "hdetvzmjud": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
