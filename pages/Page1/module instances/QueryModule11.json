@@ -10,6 +10,7 @@
       "input1": "",
       "input2": "",
       "input3": "",
+      "input4": "",
       "limit": "2",
       "offset": ""
     },
@@ -20,6 +21,13 @@
         "id": "mmyglxnhyh",
         "label": "input3",
         "propertyName": "inputs.input3"
+      },
+      "mnrarbyuuy": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "mnrarbyuuy",
+        "label": "input4",
+        "propertyName": "inputs.input4"
       },
       "mzxqpggesw": {
         "controlType": "INPUT_TEXT",

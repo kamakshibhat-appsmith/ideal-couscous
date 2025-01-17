@@ -9,7 +9,8 @@
     "inputs": {
       "myFun1": "[]",
       "myFun2": "[]",
-      "myFun21": "[]"
+      "myFun21": "[]",
+      "qwerty": "[]"
     },
     "moduleInputs": {
       "pmbjtzerln": {
@@ -32,6 +33,13 @@
         "id": "qqiaqlrryj",
         "label": "myFun2",
         "propertyName": "inputs.myFun2"
+      },
+      "skaxoyutss": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "skaxoyutss",
+        "label": "qwerty",
+        "propertyName": "inputs.qwerty"
       }
     },
     "name": "JSModule11",
