@@ -12,7 +12,7 @@
       "limit": "2",
       "ll": "",
       "offset": "",
-      "oooooooo": "",
+      "oooooooopppp": "",
       "popo": "",
       "test": ""
     },
@@ -49,8 +49,8 @@
         "controlType": "INPUT_TEXT",
         "defaultValue": "",
         "id": "sshqveyokx",
-        "label": "oooooooo",
-        "propertyName": "inputs.oooooooo"
+        "label": "oooooooopppp",
+        "propertyName": "inputs.oooooooopppp"
       },
       "uldpzwnowz": {
         "controlType": "INPUT_TEXT",
