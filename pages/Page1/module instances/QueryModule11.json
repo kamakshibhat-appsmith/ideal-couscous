@@ -7,42 +7,10 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "input1": "",
-      "input2": "",
-      "input3": "",
-      "input4": "",
       "limit": "2",
-      "offset": ""
+      "offset": "1111"
     },
     "moduleInputs": {
-      "mmyglxnhyh": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "mmyglxnhyh",
-        "label": "input3",
-        "propertyName": "inputs.input3"
-      },
-      "mnrarbyuuy": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "mnrarbyuuy",
-        "label": "input4",
-        "propertyName": "inputs.input4"
-      },
-      "mzxqpggesw": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "mzxqpggesw",
-        "label": "input2",
-        "propertyName": "inputs.input2"
-      },
-      "ufocpwrpcp": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "ufocpwrpcp",
-        "label": "input1",
-        "propertyName": "inputs.input1"
-      },
       "uldpzwnowz": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "2",
