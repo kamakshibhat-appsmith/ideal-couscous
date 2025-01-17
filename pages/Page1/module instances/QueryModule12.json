@@ -1,0 +1,40 @@
+{
+  "gitSyncId": "678a4accd783351482ee4f70_ab99436b-454f-45f7-a1b0-cb11746ded49",
+  "id": "Page1_QueryModule12",
+  "moduleUUID": "4534d854-425f-45d7-903d-56d17950085e",
+  "packageUUID": "738ccff5-4fb3-43c1-a06a-980cad6ef39e",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input1": "111",
+      "limit": "2",
+      "offset": "2"
+    },
+    "moduleInputs": {
+      "ufocpwrpcp": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "ufocpwrpcp",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      },
+      "uldpzwnowz": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "2",
+        "id": "uldpzwnowz",
+        "label": "limit",
+        "propertyName": "inputs.limit"
+      },
+      "wzyikhimhz": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "2",
+        "id": "wzyikhimhz",
+        "label": "offset",
+        "propertyName": "inputs.offset"
+      }
+    },
+    "name": "QueryModule12",
+    "pageId": "Page1"
+  }
+}
