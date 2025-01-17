@@ -9,14 +9,14 @@
     "inputs": {
       "myFun1": "[]",
       "qwe": "[]",
-      "qwe111": "[]"
+      "qwe1111": "[]"
     },
     "moduleInputs": {
       "bkgprlrrat": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "bkgprlrrat",
-        "label": "qwe111",
+        "label": "qwe1111",
         "propertyName": "inputs.qwe1"
       },
       "hdetvzmjud": {
