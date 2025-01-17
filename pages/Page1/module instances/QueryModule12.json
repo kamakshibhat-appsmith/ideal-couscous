@@ -8,9 +8,25 @@
     "contextType": "PAGE",
     "inputs": {
       "limit": "2",
-      "offset": "2"
+      "ll": "3",
+      "offset": "2",
+      "test": ""
     },
     "moduleInputs": {
+      "hpcmymmrnr": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "hpcmymmrnr",
+        "label": "test",
+        "propertyName": "inputs.test"
+      },
+      "pgftlcdwud": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "pgftlcdwud",
+        "label": "ll",
+        "propertyName": "inputs.ll"
+      },
       "uldpzwnowz": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "2",
